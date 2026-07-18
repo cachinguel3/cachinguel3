@@ -57,9 +57,14 @@ Uma aplicação clássica de gerenciamento de tarefas, com foco em uma interface
 
 ### 📫 Como me encontrar
 
-- **LinkedIn:** [linkedin.com/in/eduardo-a-8a8548193/](https://www.linkedin.com/in/eduardo-a-8a8548193/)
-- **E-mail:** edu.crecenzio.1003@gmail.com
-
+<div align="left">
+  <a href="https://www.linkedin.com/in/eduardo-a-8a8548193/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:edu.crecenzio.1003@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 ---
 
 <div align="center">
