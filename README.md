@@ -65,9 +65,10 @@ Uma aplicação clássica de gerenciamento de tarefas, com foco em uma interface
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
+
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cachinguel3&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cachinguel3&layout=compact&theme=gotham" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=cachinguel3&theme=gotham&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=cachinguel3&theme=gotham&layout=compact" alt="Top Languages" />
 </div>
