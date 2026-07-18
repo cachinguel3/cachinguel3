@@ -69,6 +69,6 @@ Uma aplicação clássica de gerenciamento de tarefas, com foco em uma interface
 ---
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=cachinguel3&theme=gotham&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=cachinguel3&theme=gotham&layout=compact" alt="Top Languages" />
+  <img loading="lazy" height="180em" src="https://github-stats-extended.vercel.app/api?username=cachinguel3&theme=gotham&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img loading="lazy" height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=cachinguel3&theme=gotham&layout=compact" alt="Top Languages" />
 </div>
