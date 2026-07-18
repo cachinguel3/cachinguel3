@@ -1,6 +1,18 @@
 # Olá, eu sou o Eduardo Aquino 👋
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e apaixonado por transformar linhas de código em soluções reais. Meu foco principal é o desenvolvimento de software, transitando com facilidade entre a robustez do Backend e a dinamicidade do Frontend.
+<table>
+  <tr>
+    <!-- Coluna do Octocat -->
+    <td align="center" valign="middle" width="250">
+      <img src="./octocat.png" width="200" alt="Meu Octocat" />
+    </td>
+    <!-- Coluna do Texto -->
+    <td valign="middle">
+      <p>Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> e apaixonado por transformar linhas de código em soluções reais.</p>
+      <p>Meu objetivo e foco principal é o desenvolvimento de software, transitando entre a robustez do Backend e a dinamicidade do Frontend.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
